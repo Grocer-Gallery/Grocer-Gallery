@@ -316,7 +316,9 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 0;
   height: 100%;
-  background-image:url("https://images.pexels.com/photos/1089455/pexels-photo-1089455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image:url("https://images.unsplash.com/photo-1580133750060-05e667fe0318?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=751&q=80") ;
 }
 
 #hero .carousel-container {
@@ -355,6 +357,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   width: auto;
   height: auto;
+  
 }
 
 #hero .btn-get-started {
