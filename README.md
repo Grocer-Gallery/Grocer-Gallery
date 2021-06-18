@@ -24,6 +24,16 @@ From the diagrammatic representation. We would be able to understand the differe
 
 Solution Roadmap:
 
-![Code Linguist](https://user-images.githubusercontent.com/67419416/122592623-25985c00-d082-11eb-9f11-fea8a7091cc3.png)
+![Solution Roadmap](https://user-images.githubusercontent.com/67419416/122593477-5a58e300-d083-11eb-9fd3-f72e6930b18f.png)
 
+
+1.The first diagram represents the user with the grocery needs. 
+2.Then the user can access the grocer gallery website through laptop Or mobile. 
+3.After that,the user must register themselves to log in. 
+4.After login,users would be redirected to Buy now page where they can see all the available groceries and purchase them.
+5.Where all the feeded data's would be stored in the backend (Firebase). 
+6.We use IBM Watson Services(Watson Assistant,Watson speech to text) in the website to make the webpage more user-friendly. 
+7.The money get transferred for the ordered products through API transaction. 
+8.After the money got transferred the user gets an acknowledgement from the website.
+9.Simultaneously,the user would get notification updates from our webpage. 
 
