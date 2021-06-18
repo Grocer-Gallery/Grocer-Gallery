@@ -24,3 +24,4 @@ In our method,
 We directly get the rice for example. From farmer which cost about rs 4 nd we pack it which would cost about rs 8 and for this amount we would be able to supply it to customers.
 From the diagrammatic representation. We would be able to understand the difference.
 
+![Code Linguist](https://user-images.githubusercontent.com/67419416/122592623-25985c00-d082-11eb-9f11-fea8a7091cc3.png)
