@@ -39,5 +39,5 @@ Solution Roadmap:
 
 Youtube Video link:
 
-[![Grocer-Gallery](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=3Rw58V7gOWM)
+[![Grocer-Gallery](https://img.youtube.com/vi/3Rw58V7gOWM/0.jpg)](https://www.youtube.com/watch?v=3Rw58V7gOWM)
 
