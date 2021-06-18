@@ -38,4 +38,6 @@ Solution Roadmap:
 9.Simultaneously,the user would get notification updates from our webpage. 
 
 Youtube Video link:
-[![Grocer-Gallery](https://www.youtube.com/watch?v=3Rw58V7gOWM)
+
+[![Grocer-Gallery](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=3Rw58V7gOWM)
+
