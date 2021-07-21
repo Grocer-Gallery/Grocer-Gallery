@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #fff;
+  color:  rgb(16, 231, 149);
   text-decoration: none;
 }
 
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5px 15px 7px 15px;
   margin-left: 5px;
   font-size: 14px;
-  color: #fff;
+  color:  rgb(16, 231, 149);
   white-space: nowrap;
   transition: 0.3s;
   border-radius: 50px;
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #fff;
+  color:  rgb(16, 231, 149);
 }
 
 .navbar .dropdown:hover > ul {
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color:  rgb(79, 238, 177);
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: rgb(79, 238, 177);
   overflow-y: auto;
   transition: 0.3s;
 }
